@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
   <ProductDependencies>
-    <Dependency Name="System.CommandLine" Version="2.0.0-beta4.22272.1">
+    <Dependency Name="System.CommandLine" Version="2.0.0-beta4.22564.1">
       <Uri>https://github.com/dotnet/command-line-api</Uri>
-      <Sha>209b724a3c843253d3071e8348c353b297b0b8b5</Sha>
+      <Sha>8374d5fca634a93458c84414b1604c12f765d1ab</Sha>
     </Dependency>
-    <Dependency Name="System.CommandLine.NamingConventionBinder" Version="2.0.0-beta4.22272.1">
+    <Dependency Name="System.CommandLine.NamingConventionBinder" Version="2.0.0-beta4.22564.1">
       <Uri>https://github.com/dotnet/command-line-api</Uri>
-      <Sha>209b724a3c843253d3071e8348c353b297b0b8b5</Sha>
+      <Sha>8374d5fca634a93458c84414b1604c12f765d1ab</Sha>
     </Dependency>
-    <Dependency Name="System.CommandLine.Rendering" Version="0.4.0-alpha.22272.1">
+    <Dependency Name="System.CommandLine.Rendering" Version="0.4.0-alpha.22564.1">
       <Uri>https://github.com/dotnet/command-line-api</Uri>
-      <Sha>209b724a3c843253d3071e8348c353b297b0b8b5</Sha>
+      <Sha>8374d5fca634a93458c84414b1604c12f765d1ab</Sha>
     </Dependency>
-    <Dependency Name="Microsoft.SourceBuild.Intermediate.command-line-api" Version="0.1.327201">
+    <Dependency Name="Microsoft.SourceBuild.Intermediate.command-line-api" Version="0.1.356401">
       <Uri>https://github.com/dotnet/command-line-api</Uri>
-      <Sha>209b724a3c843253d3071e8348c353b297b0b8b5</Sha>
+      <Sha>8374d5fca634a93458c84414b1604c12f765d1ab</Sha>
       <SourceBuild RepoName="command-line-api" ManagedOnly="true" />
     </Dependency>
     <Dependency Name="Microsoft.SourceBuild.Intermediate.source-build-reference-packages" Version="8.0.0-alpha.1.23273.2">
